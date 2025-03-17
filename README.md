@@ -7,4 +7,4 @@ A SharePoint for team's free edition and collaborations.
 |------------------|----------|----------------------------|----------------------------|
 | Rong Yang        | 杨荣      | https://github.com/legendronyang | yangr.rong@gmail.com |
 | Xiongpang Zhang  | 张       | https://github.com/pangle-zhang  |                       |
-|                  |          |                                  |                       |
+| Robin Luo        | 罗       | https://github.com/RobinLuoxw    |                       |
