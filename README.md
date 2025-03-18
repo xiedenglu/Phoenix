@@ -12,3 +12,4 @@ A SharePoint for team's free edition and collaborations.
 | Xiao Liu         | 霄       | https://github.com/xlleon        |                       | 
 | Harley Wang      | 王       | https://github.com/harleyw       | harleywang2000@hotmail.com | 
 | Wendy Zheng      | 郑       | https://github.com/wendyzheng0   | wendy.zheng@qq.com    |
+| Joey Zhang       | 张       | https://github.com/zhang04171    |                       |
